@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1656744611 source:d:\vashti\onedrive - technological university of the philippines\.cc142_cp2\cp2 - project2_c++\main.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	<windows.h>
+	<cstring>
+
+1656941400 source:d:\vashti\onedrive - technological university of the philippines\.cc142_cp2\camu - project2_c++\main.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	<cstring>
+	<windows.h>
+
