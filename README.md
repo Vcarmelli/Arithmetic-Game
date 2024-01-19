@@ -4,7 +4,7 @@ Console-based game for learning primary level mathematics
 <ul>
   <li>Addition</li>
   <li>Subtraction</li>
-  <li>Multiition</li>
+  <li>Multiplication</li>
   <li>Division</li>
 </ul>
 
